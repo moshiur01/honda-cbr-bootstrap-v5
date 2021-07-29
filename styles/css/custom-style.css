@@ -1,0 +1,88 @@
+/* common styles */
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* header section style */
+
+.header-section-style {
+  height: 698px;
+  background-color: #264653;
+}
+.header-p-style {
+  color: #e0e0e0e5;
+}
+
+.header-button-style {
+  color: white;
+  width: 148px;
+  height: 44px;
+  background-color: rgba(231, 111, 81, 1);
+}
+
+.modal-button-style {
+  color: white;
+  width: 80px;
+  height: 40px;
+  background-color: rgba(231, 111, 81, 1);
+}
+
+.header-img img {
+  width: 100%;
+}
+
+/* Fetured Bikes */
+.org-color {
+  color: rgba(231, 111, 81, 1);
+}
+
+.feature-bike-margin {
+  margin-top: 120px;
+}
+.feature-bike {
+  width: 288px;
+  height: 243px;
+}
+.grayscale {
+  filter: grayscale(100%);
+}
+
+/* Happy Clients sections */
+
+.card-image {
+  width: 149px;
+  height: 149px;
+  margin-top: 40px;
+}
+
+.paragraph-gray {
+  color: rgba(108, 108, 108, 1);
+}
+
+.icon-style {
+  color: rgba(231, 111, 81, 1);
+}
+
+.icon-style-no-color {
+  color: rgba(231, 111, 81, 1);
+}
+
+/* 2nd extra section */
+.extra-sec-img {
+  width: 80px;
+  height: 90px;
+}
+.extra-sec2 {
+  margin-top: 50px;
+  margin-left: 260px;
+  margin-right: 200px;
+}
+.link-dec {
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 668px) {
+  .extra-sec2 {
+    margin-left: 60px;
+  }
+}
