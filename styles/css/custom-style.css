@@ -82,6 +82,10 @@ body {
 }
 
 @media only screen and (max-width: 668px) {
+  .heading-sm-style {
+    margin-right: 40px;
+  }
+
   .extra-sec2 {
     margin-left: 60px;
   }
